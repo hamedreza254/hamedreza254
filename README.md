@@ -51,8 +51,3 @@ graph LR
     C --> D[Next.js 🎯]
     D --> E[TypeScript 🎯]
     E --> F[Full-Stack Developer 🚀]
-<p align="center"> <a href="mailto:hamedreza254@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="tel:+989032656082"> <img src="https://img.shields.io/badge/Phone-09032656082-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> <a href="https://github.com/hamedreza254"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hamedreza254&label=پروفایل%20بازدید&color=3b82f6&style=flat" alt="Profile views" /> </p>
-
-
