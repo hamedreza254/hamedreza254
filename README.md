@@ -41,6 +41,27 @@
 </p>
 
 ---
+## 📂 پروژه‌های من
+
+| پروژه | توضیح | تکنولوژی‌ها | لینک |
+|-------|--------|-------------|------|
+| 🌐 **سایت رزومه** | وب‌سایت شخصی و رزومه آنلاین | HTML, Tailwind, JS | [مشاهده آنلاین](https://hamedreza254.github.io/my-resume-website) |
+| 🧮 **ماشین حساب** | ماشین حساب ساده با جاوااسکریپت | HTML, CSS, JS | به‌زودی |
+| 📝 **Todo List** | لیست وظایف با قابلیت ذخیره | HTML, CSS, JS | به‌زودی |
+
+## 📫 راه‌های ارتباطی
+
+<p align="center">
+  <a href="mailto:hamedreza254@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="tel:+989032656082">
+    <img src="https://img.shields.io/badge/Phone-09032656082-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://github.com/hamedreza254">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ## 🎯 مسیر یادگیری من
 
