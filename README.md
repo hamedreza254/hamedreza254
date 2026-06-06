@@ -40,14 +40,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamedreza254&theme=radical&hide_border=true" />
 </p>
 
----
+--- 
 ## 📂 پروژه‌های من
 
 | پروژه | توضیح | تکنولوژی‌ها | لینک |
 |-------|--------|-------------|------|
 | 🌐 **سایت رزومه** | وب‌سایت شخصی و رزومه آنلاین | HTML, Tailwind, JS | [مشاهده آنلاین](https://hamedreza254.github.io/my-resume-website) |
-| 🧮 **ماشین حساب** | ماشین حساب ساده با جاوااسکریپت | HTML, CSS, JS | به‌زودی |
-| 📝 **Todo List** | لیست وظایف با قابلیت ذخیره | HTML, CSS, JS | به‌زودی |
+| 🧮 **ماشین حساب** | ماشین حساب حرفه‌ای با حالت علمی | HTML, CSS, JS | [مشاهده آنلاین](https://hamedreza254.github.io/my-resume-website/calculator.html) |
+| 📝 **Todo List** | لیست وظایف با ذخیره محلی | HTML, CSS, JS | [مشاهده آنلاین](https://hamedreza254.github.io/my-resume-website/todo.html) |
 
 ## 📫 راه‌های ارتباطی
 
